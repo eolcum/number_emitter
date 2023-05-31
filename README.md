@@ -11,11 +11,13 @@ Fornt end is a [Next.js](https://nextjs.org/) project bootstrapped with [`create
 ## Installation
 
 random-emitter-be: npm install
+
 random-emitter-fe: npm install
 
 ## Running the app
 
 random-emitter-be: npm run start
+
 random-emitter-fe: npm run dev
 
 Backend Server starts on port: 3001
